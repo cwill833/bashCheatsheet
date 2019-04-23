@@ -17,17 +17,17 @@
 **once changes are made to local repo,**   
 **need to add these changes**  
 *git add -A*  
-    *this adds all changes from folder
+  * this adds all changes from folder
 
 *git add fileName*  
-    *will only add selected file
+  * will only add selected file
 
 **if you do not want to unstage files**  
 *git reset -A*  
-    *this unstaged all changes in folder
+  * this unstaged all changes in folder
 
 *git reset fileName*  
-    *this will unstange the selected file
+  * this will unstange the selected file
 
 **once you add changes you need to commit**  
 **changes with**  
