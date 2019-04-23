@@ -22,9 +22,9 @@
 *git add fileName*  
   * will only add selected file
 
-**if you do not want to unstage files**  
+**if you do not want to stage files**  
 *git reset -A*  
-  * this unstaged all changes in folder
+  * this will unstaged all changes in folder
 
 *git reset fileName*  
   * this will unstange the selected file
