@@ -37,5 +37,6 @@
 *git push origin master*
 
 
-
+**to change name of dir**
+*mv fileName newFileName
 
