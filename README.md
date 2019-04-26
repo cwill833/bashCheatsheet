@@ -38,5 +38,5 @@
 
 
 **to change name of dir**
-*mv fileName newFileName
+*mv fileName newFileName*
 
